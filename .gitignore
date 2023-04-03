@@ -1,0 +1,12 @@
+runs/
+pycache/
+*.out
+*.pyc
+*.txt
+*.png
+*.jpg
+*.npy
+*.csv
+*.xlsx
+*.pt
+*.npy

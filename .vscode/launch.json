@@ -1,0 +1,57 @@
+{
+//     // Use IntelliSense to learn about possible attributes.
+//     // Hover to view descriptions of existing attributes.
+//     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+//     "version": "0.2.0",
+    "configurations": [
+
+        
+        // {
+        //     "name": "tranad",
+        //     "type": "python",
+        //     "args": [ "--id", "1", "--model", "TransformerBasicBottleneckScaling", "--test_only", "True", "--dataset", "pattern_trend1_test5", "--noise_steps", "100", "--denoise_steps", "80", "--diff_lambda", "0.01", "--training", "both", "--batch_size", "16", "--lr", "1e-3", "--window_size", "100", "--group", "debug", "--anomaly_score", "diffusion"],
+        //     "request": "launch",   
+        //     "program": "TranAD/train_diffusion_val.py",
+        //     "console": "integratedTerminal",
+        //     "justMyCode": true
+        // }
+    ] 
+}
+
+
+// {
+//     // Use IntelliSense to learn about possible attributes.
+//     // Hover to view descriptions of existing attributes.
+//     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+//     "version": "0.2.0",
+//     "configurations": [
+        
+//         {
+//             "name": "tranad",
+//             "type": "python",
+//             "request": "launch",   
+//             "program": "TranAD/extract_samples.py",
+//             "console": "integratedTerminal",
+//             "justMyCode": true
+//         }
+//     ] 
+// }
+
+// {
+//     // Use IntelliSense to learn about possible attributes.
+//     // Hover to view descriptions of existing attributes.
+//     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+//     "version": "0.2.0",
+//     "configurations": [
+        
+//         {
+//             "name": "tranad",
+//             "type": "python",
+//             "request": "launch",   
+//             "program": "TranAD/train_transformer_val.py",
+//             "args": ["--test_only", "True","--dataset", "pattern_shapelet", "--model", "TransformerBasicBottleneckScaling", "--window_size", "100", "--lr", "1e-3", "--group", "debug"],
+//             "console": "integratedTerminal",
+//             "justMyCode": true
+//         }
+//     ] 
+// }
