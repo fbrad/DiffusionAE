@@ -5,8 +5,6 @@ pycache/
 *.txt
 *.png
 *.jpg
-*.npy
 *.csv
 *.xlsx
 *.pt
-*.npy
